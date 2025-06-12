@@ -60,3 +60,11 @@ Evaluate clusters using Silhouette Score.
 Use additional customer features (e.g., purchase history).
 
 Improve visuals using interactive plots (e.g., Plotly).
+
+![image](https://github.com/user-attachments/assets/6f5cf210-e0b4-454a-8ed0-18ca8c5d6802)
+![image](https://github.com/user-attachments/assets/df745f6a-fe4c-469b-b54e-4a70df789779)
+![image](https://github.com/user-attachments/assets/dbf5543b-21ff-42c2-811f-4a1f07ac405d)
+![image](https://github.com/user-attachments/assets/e91e1f30-44e7-4959-8cd9-fc3f69fb64d0)
+![image](https://github.com/user-attachments/assets/b0708122-1c64-4567-a70d-4bd2827bb849)
+![image](https://github.com/user-attachments/assets/0aaf9052-d00e-4bdb-96da-cb840d251eab)
+
